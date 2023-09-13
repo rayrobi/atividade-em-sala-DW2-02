@@ -1,0 +1,18 @@
+{"usuarios": [{
+			"nome": "Denji",
+			"idade": 17
+		},
+		{
+			"nome": "Makima",
+			"idade": 24
+		},
+		{
+			"nome": "Aki",
+			"idade": 18
+		},
+		{
+			"nome": "Power",
+			"idade": 17
+		}
+	]
+}
